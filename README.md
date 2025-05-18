@@ -6,14 +6,15 @@
 
 ---
 
-🎓 Cursando Engenharia de Software
-💻 Estudando e praticando Java para desenvolvimento Back-End
-📚 Aprendizado baseado em projetos da faculdade, cursos e projetos pessoais
+🎓 **Cursando Engenharia de Software**  
+💻 Estudando e praticando **Java** para desenvolvimento Back-End  
+📚 Aprendizado baseado em projetos da faculdade, cursos e projetos pessoais  
 🚀 Foco em lógica de programação, orientação a objetos e estruturação de código
 
 ---
 
-🛠️ Tecnologias que estou aprendendo,
+## 🛠️ Tecnologias que estou aprendendo
+
 <p>
   <img src="https://img.shields.io/badge/Java-Basics-informational?style=flat&logo=java&logoColor=white&color=orange" />
   <img src="https://img.shields.io/badge/OOP-Principles-blue?style=flat" />
@@ -23,23 +24,24 @@
 
 ---
 
-✍️ Projetos em andamento,
-📌 Aplicações simples com Java (console),
-📌 Prática com estruturas de repetição, condicionais e arrays,
-📌 Mini-projetos com orientação a objetos,
+## ✍️ Projetos em andamento
+- 📌 Aplicações simples com Java (console)
+- 📌 Prática com estruturas de repetição, condicionais e arrays
+- 📌 Mini-projetos com orientação a objetos
 
 ---
 
-📈 GitHub Stats,
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasCesarDev&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-📫 Contato,
-LinkedIn: [Lucas César](https://www.linkedin.com/in/lucas-cardoso-bb6845303),
-E-mail: lucas.c.f.cardoso@gmail.com,
+## 📫 Contato
+- LinkedIn: [Lucas César](https://www.linkedin.com/in/lucas-cardoso-bb6845303)
+- E-mail: lucas.c.f.cardoso@gmail.com
 
 ---
 
